@@ -1,4 +1,3 @@
-# NX_STARTERPACK
 ################################################
 #       Creat by : Rotcher & Milad_nx          # 
 #                  Discord                     #
